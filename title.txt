@@ -1,0 +1,6 @@
+---
+title: Category Theory for the Sciences
+author: David I. Spivak 
+rights: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
+language: en-US
+...
